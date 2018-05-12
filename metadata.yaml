@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25375
     wikipedia: http://en.wikipedia.org/wiki/Klabund
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22517#Deutsche-Literaturgeschichte-in-einer-StundeVon-den--ltesten-Zeiten-bis-zur-Gegenwart
 gutenberg_bookshelf:
 - DE Sachbuch
 - German Language Books
